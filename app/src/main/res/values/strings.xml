@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UmpireBuddy</string>
+    <string name="umpire_buddy_v1">Umpire Buddy v1</string>
+    <string name="strikeCnt">0</string>
+    <string name="ballCnt">0</string>
+    <string name="balls">Balls</string>
+    <string name="strikes">Strikes</string>
+    <string name="reset">reset</string>
+    <string name="exit">exit</string>
+    <string name="popUpTxt" />
+    <string name="judge_greenberger">Judge Greenberger</string>
+    <string name="umpire_buddy_v2">Umpire Buddy v2</string>
+    <string name="infobtn">infoBtn</string>
+    <string name="infobutttn" />
+    <string name="backbtn">backBtn</string>
+    <string name="info">info</string>
+    <string name="info1">Info</string>
+    <string name="inf">inf</string>
+</resources>
